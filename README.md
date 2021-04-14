@@ -47,9 +47,10 @@ After purchasing the materials, we took the following steps to build an Arduino-
 
 
 ### Data Analysis
-![image](https://user-images.githubusercontent.com/82205054/114388329-81e88680-9bce-11eb-9576-d86fb224eeb2.png)
+![image](https://user-images.githubusercontent.com/82205054/114650238-d863db00-9d1c-11eb-8aa9-b7c690da7ee0.png)
 
-![image](https://user-images.githubusercontent.com/82205054/114388386-9462c000-9bce-11eb-94ff-74f81f06020a.png)
+![image](https://user-images.githubusercontent.com/82205054/114650252-e0237f80-9d1c-11eb-88ee-63affb42b6c1.png)
+
 
 ![image](https://user-images.githubusercontent.com/82205054/114388400-97f64700-9bce-11eb-8d86-1bbafd7ae59f.png)
 
